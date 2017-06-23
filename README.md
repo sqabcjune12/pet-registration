@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Pet Registration Project
+## Application which registers pets into the system.
 
-*Default Structure for A Basic Project*
+*An application which asks the user to register their pet and displays a total cost for registering their pet. The application should register user details and ask how many years they would like to register their pets and give a total of that price.*
 
 **Java 8**
 
